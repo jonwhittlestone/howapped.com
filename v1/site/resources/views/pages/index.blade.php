@@ -56,7 +56,7 @@
                                 data-easing="easeOutExpo"><a href="http://www.jonwhittlestone.com" class="">Recent Work</a>
                             </div> -->
                             <div class="caption sfb stb btn btn-flat flat-primary"
-                                data-x="275"
+                                data-x="145"
                                 data-y="280"
                                 data-speed="300"
                                 data-start="2800"
