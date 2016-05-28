@@ -48,13 +48,13 @@
                                 data-speed="300"
                                 data-start="3000"
                                 data-easing="easeOutExpo"  ><img src="/assets/img/slides/conductor.png" alt="Hymn Sheet"></div>
-                            <div class="caption sfb stb btn btn-flat flat-inverse btn-bordered"
+                            <!-- <div class="caption sfb stb btn btn-flat flat-inverse btn-bordered"
                                 data-x="145"
                                 data-y="280"
                                 data-speed="300"
                                 data-start="2600"
                                 data-easing="easeOutExpo"><a href="http://www.jonwhittlestone.com" class="">Recent Work</a>
-                            </div>
+                            </div> -->
                             <div class="caption sfb stb btn btn-flat flat-primary"
                                 data-x="275"
                                 data-y="280"
